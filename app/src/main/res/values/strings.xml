@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:dxliff="http://schemas.android.com/apk/res-auto">
     <string name="app_name">LacalizationDemoApp</string>
-    <string name="hello_world">Hello World!</string>
+    <string name="hello_world">Hello <dxliff:g id="world"> World!</dxliff:g></string>
 </resources>

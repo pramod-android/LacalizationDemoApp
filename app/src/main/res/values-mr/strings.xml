@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:dxliff="http://schemas.android.com/apk/res-auto">
     <string name="app_name">स्थानिकीकरण डेमो अ‍ॅप</string>
-    <string name="hello_world">नमस्कार जग</string>
+    <string name="hello_world">नमस्कार  <dxliff:g id="world"> World!</dxliff:g></string>
 </resources>
